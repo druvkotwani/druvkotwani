@@ -1,3 +1,5 @@
+<p><image src="https://github.com/druvkotwani/druvkotwani/blob/main/banner.jpg"/></p>
+
 # 💫 About Me:
 👨🏽‍💻 I’m a third year Engineering student.<br>🌱 I’m currently learning DSA and Full Stack Development.<br>💬 Ask me about anything, I am happy to help.<br>👾 Fun fact: Equal is Not Always Equal in JavaScript.<br>📝 Do checkout my Resume.
 
