@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 <h1 align="center">Hi , I'm Dhruv Kotwani</h1>
 
