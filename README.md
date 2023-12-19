@@ -37,13 +37,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=druvkotwani&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=druvkotwani&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
-</p>
-
 ---
 
 <p align="center">Credits: <a href="https://github.com/druvkotwani">Dhruv Kotwani</a></p>
