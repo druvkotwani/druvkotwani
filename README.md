@@ -8,14 +8,14 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Third Year student at LNCT Bhopal pursuing my B.Tech degree in Information Technology. Here to contribute in Open Source projects and learn new things on the go.</p>
+<p align="center" width="150px">I am currently a Final Year student at LNCT Bhopal pursuing my B.Tech degree in Information Technology. Here to contribute in Open Source projects and learn new things on the go.</p>
 </p>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=druvkotwani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-👨🏽‍💻 I’m a third year Engineering student.
+👨🏽‍💻 I’m a final year Engineering student.
 <br>🌱 I’m currently learning DSA and Full Stack Development.
 <br>💬 Ask me about anything, I am happy to help.
 <br>👾 Fun fact: Equal is Not Always Equal in JavaScript.<br>📝 Do checkout my Resume.
